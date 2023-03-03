@@ -9,7 +9,7 @@ Acceptance Criteria:
 The website must have clear and consistent branding throughout all pages and elements.
 The website must be functional and provide all features and functionality required by the project specifications.
  The website must be responsive and work on all major devices and screen sizes, including desktops, laptops, tablets, and smartphones.
-  The website must be secure and protect user data and information from unauthorized access, misuse, or hacking attempts.
+ The website must be secure and protect user data and information from unauthorized access, misuse, or hacking attempts.
 
 # List Stories related to this theme
 1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)

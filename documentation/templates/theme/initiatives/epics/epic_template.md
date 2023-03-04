@@ -3,7 +3,7 @@
  origin/4-themes-template
 Description:The goal of this epic is to create a detailed plan outlining the steps involved in creating the 
 DevOps process for continuous growth of a website. This epic is an essential first step in establishing an efficient
-and effective DevOps process that will allow for continuous integration and deployment of code changes, leading to 
+and effective DevOps process that will allow for continuous integration ok and deployment of code changes, leading to 
 faster delivery of new features and better overall website performance. 
 
 Goals:

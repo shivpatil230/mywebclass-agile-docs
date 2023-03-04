@@ -83,7 +83,7 @@ such as the deployment of new servers or the implementation of a cloud-based pla
 may need to be completed before the DevOps process can be implemented.
 2.Tools and systems: The implementation of a DevOps process may require the use of new tools and systems, 
 such as source code management tools, continuous integration and delivery tools, and monitoring and testing tools.
-These tools may need to be selected, configured, and integrated before the DevOps process can be implemented.
+These tools may need to ok be selected, configured, and integrated before the DevOps process can be implemented.
 3.Team collaboration: Implementing a DevOps process may require collaboration between different teams within 
 an organization, such as development, operations, and quality assurance teams. It may be necessary to ensure that all teams
 are aligned on the goals and objectives of the DevOps process and that they are willing to collaborate effectively.
